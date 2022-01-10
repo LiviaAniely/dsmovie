@@ -6,7 +6,7 @@ function Navbar(){
         <nav className='container'>
           <div className='dsmovie-nav-content'>
             <h1>DSMovie</h1>
-            <a href = "https://github.com/LiviaAniely">
+            <a href = "https://github.com/LiviaAniely" target={"_blank"} rel="noreferrer">
               <div className='dsmovie-contact-contact'>
                 <GithubIcon/>
                 <p className='dsmovie-contact-link'>/LiviaAniely</p>
